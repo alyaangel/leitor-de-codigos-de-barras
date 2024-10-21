@@ -1,1 +1,1 @@
-# leitor-de-c-digos-de-barras
+# leitor-de-códigos-de-barras
