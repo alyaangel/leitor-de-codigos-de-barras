@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author SUPORTE 08
+ * @author ALYA ANGEL
  */
 public class teste {
 
