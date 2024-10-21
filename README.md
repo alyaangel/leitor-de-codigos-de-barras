@@ -1,0 +1,1 @@
+# leitor-de-c-digos-de-barras
