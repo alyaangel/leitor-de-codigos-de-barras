@@ -25,7 +25,7 @@ Ideal para pequenas empresas, gestão de inventário, ou qualquer pessoa que pre
 
 - Java JDK 8 ou superior
 - Sistema operacional Windows (para execução do arquivo `.bat`)
--mudar os caminhos no arquivo.bat
+- mudar os caminhos no arquivo.bat
 
 ## Suporte
 Se encontrar algum problema ou tiver sugestões para melhorias, fique à vontade para abrir uma issue no repositório do GitHub.
